@@ -7,5 +7,5 @@
 
 ## 
 * 交通时圈图
-- 腾讯地图API实现，其他地图大同小异
+  - 腾讯地图API实现，其他地图大同小异
 ![杭州公交时圈图](https://github.com/polyfong/location-data-analysis-map_api/blob/master/%E6%97%B6%E5%9C%88%E5%9B%BE/hzcitycentre.jpg)
